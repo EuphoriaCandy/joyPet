@@ -1,3 +1,8 @@
+# this was originally one of the first files I was creating as a first step, but I decided that the core functionality of the loop of running joypet
+# was more important. I don't want to delete this though in case any of this can be salvaged when I actually create the "joyPet creator" functionality.
+# Thus it is written but isn't connected to anything as of 11/11/2026.
+
+
 # class that creates and sets up a new joyPet
 
 import os
